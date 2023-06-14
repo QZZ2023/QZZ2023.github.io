@@ -14,10 +14,11 @@ My research focuses on a range of areas, including power/energy management, volt
 - Power system planning and operation with transportation electrification at scale.
 
 
-## News and Updates
+## Openings
+My group is looking for **self-motivated** PhD applicants. Contact me if you are interested! Here is [job posting](https://QZZ2023.github.io/file/Hiring_PhD_QZ.pdf).
 
-- <font color='red'>[News]</font> My group is looking for **self-motivated** PhD applicants. Contact me if you are interested!
-- **Aug 2023：**Join UA ECE Department as an assistant professor.
+## News and Updates
+- <font color='red'>[News]</font>**Aug 2023：**Join UA ECE Department as an assistant professor.
 - **Jun 2022：**Join Cornell System Engineering as an Ezra postdoc researcher.
 - **May 2022：**Obtain doctoral degree from ISU.
 
