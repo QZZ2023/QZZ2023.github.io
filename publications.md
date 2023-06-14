@@ -38,10 +38,22 @@ Lastest Update: 14th June 2023
 - [Distributed DCOPF with Flexible Transmission](https://QZZ2023.github.io/mypaper/EPSR_DCOPF.pdf)<br>**Qianzhi Zhang**, Mostafa Sahraei-Ardakani, **Electric Power Systems Research**, vol.10, no.5, pp.5308-5319, Sept.2019.
 
 
-## Conference Paper 
+## Conference Paper (Selected)
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [Analyzing Impact of BESS Allocation on Hosting Capacity in Distribution Networks](https://QZZ2023.github.io/mypaper/NAPS_NH.pdf)<br>Naihao Shi, Rui Cheng, Zhaoyu Wang, **Qianzhi Zhang**, 2022 North American Power Symposium (NAPS), Salt Lake City, UT, 2022.
+
+- [Smart Meter Data Compressionand Reconstruction Using Deep Convolutional Autoencoders](https://QZZ2023.github.io/mypaper/NAPS_YX.pdf)<br>Yuxuan Yuan, **Qianzhi Zhang**, Kaveh Dehghanpour, Zhaoyu Wang, 2021 North American Power Symposium (NAPS), Phoenix, AZ, 2021.
+
+- [Impacts of Communication Limits on Convergence of Distributed DCOPF With Flexible Transmission](https://QZZ2023.github.io/mypaper/NAPS_QZ_2.pdf)<br>**Qianzhi Zhang**, Mostafa Sahraei-Ardakani, 2017 North American Power Symposium (NAPS), Morgantown, WV, 2017.
+
+- [Software Development of Optimal Substation Ground Grid Design Based on Genetic Algorithm and Pattern Search](https://QZZ2023.github.io/mypaper/NAPS_QZ_1.pdf)<br>**Qianzhi Zhang**, Xuan Wu, 2014 North American Power Symposium (NAPS), Pullman, WA, 2014.
+
+- [High-Rise Building Mini-Hydro Pumped-Storage Scheme with Shanghai Jinmao Tower as A Case Study](https://QZZ2023.github.io/mypaper/PESGM_3.pdf)<br>Jianmin Zhang, **Qianzhi Zhang**, 2014 IEEE PES General Meeting (PESGM), Vancouver, BC, 2014.
+
+- [Feasibility and Simulation Study of High-Rise Building Microgrid With PV and Mini-Hydro Pumping](https://QZZ2023.github.io/mypaper/PESGM_2.pdf)<br>>Jianmin Zhang, **Qianzhi Zhang**, Chuangxin Guo, 2013 IEEE PES General Meeting (PESGM), San Diego, CA, 2013.
+
+- [Photovoltaic Plant Metering Monitoring Model and Its Calibration and Parameter Assessment](https://QZZ2023.github.io/mypaper/PESGM_1.pdf)<br>**Qianzhi Zhang**, Jianmin Zhang, Chuangxin Guo, 2014 IEEE PES General Meeting (PESGM), Vancouver, BC, 2014.
 
 ## Working Paper
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- [It Takes More Than Electric Vehicles – Bottlenecks in Power Transmission Grids for Achieving New York State’s Transportation Electrification Ambition]<br>**Qianzhi Zhang**, Yuechen Liu, Fengqi You, H.Olver.Gao, **Applied Energy**, under review.
