@@ -7,7 +7,7 @@ Lastest Update: 14th June 2023
 
 ## Honors
 
-- Ezra SYSEN Post-Doc Fellowship, Cornell University, 2022
+- Ezra SYSEN Post-Doc Fellowship, Cornell University, 2022-2023
 - Outstanding Reviewer, IEEE Transactions on Power Systems, 2022
 - Outstanding Reviewer (Top 5), IEEE Transactions on Smart Grid, 2021
 - Outstanding Reviewer, IEEE Open Access Journal of Power and Energy, 2021

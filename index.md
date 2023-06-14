@@ -16,7 +16,7 @@ My research focuses on a range of areas, including power/energy management, volt
 
 ## News and Updates
 
-- <font color='red'>[News]</font> My group is looking for **self-motivated** PhD applicants. Contact me if you are interested!**
+- <font color='red'>[News]</font> My group is looking for **self-motivated** PhD applicants. Contact me if you are interested!
 - **Aug 2023：**Join UA ECE Department as an assistant professor.
 - **Jun 2022：**Join Cornell System Engineering as an Ezra postdoc researcher.
 - **May 2022：**Obtain doctoral degree from ISU.
