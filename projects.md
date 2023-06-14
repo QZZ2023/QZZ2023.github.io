@@ -13,7 +13,14 @@ title: Projects
 </center>
 <br>
 
-#### [Distributed Volt/Var Control in Power Distribution Systems with High Penetration of PVs](https://QZZ2023.github.io/mypaper/CVR_2.pdf)
+#### [Robust Volt/Var Control in Power Distribution Systems with Advanced Metering Infrastructure](https://QZZ2023.github.io/mypaper/TPWRS_CVR_3.pdf)
+
+<center>
+<img src="/images/Data_VVO.png">
+</center>
+<br>
+
+#### [Distributed Volt/Var Control in Power Distribution Systems with High Penetration of PVs](https://QZZ2023.github.io/mypaper/TSG_CVR_2.pdf)
 
 <center>
 <img src="/images/Dis_VVO.png">
@@ -35,22 +42,4 @@ title: Projects
 </center>
 <br>
 
-<br>
 
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
