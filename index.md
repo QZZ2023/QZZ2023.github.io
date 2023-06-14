@@ -6,21 +6,23 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Qianzhi Zhang (章谦之)**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am an assistant professor in **Electrical Engineering** at The University of Alabama. Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
+My research focuses on a range of areas, including power/energy management, voltage/var control, system resilience enhancement, transportation electrification at scale, and the applications of advanced optimization and machine learning techniques in power system operation and control. 
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My group at The University of Alabama invites applications for two fully funded Ph.D. positions for the upcoming academic year, starting either in Fall 2023 or Spring 2024. The successful candidate will work with Dr. Qianzhi Zhang in the one of the following areas:
+- Modeling, simulation, and control of power systems and microgrids with renewable energy sources and inverter-based resources
+- Resilience enhancement of power systems 
+- Power system planning and operation with transportation electrification at scale.
+
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024 & 2025]. Contact me if you have any leads!**
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **<font color='red'>[News]</font> My group is looking for **self-motivated** PhD applicants to start in [Fall 2023 & Spring/Fall 2024]. Contact me if you are interested!**
+- **Aug 2023：**Join UA ECE Department as an assistant professor.
+- **Jun 2022：**Join Cornell System Engineering as an Ezra postdoc researcher.
+- **May 2022：**Obtain doctoral degree from ISU.
+
