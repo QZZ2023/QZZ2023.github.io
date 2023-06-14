@@ -7,7 +7,7 @@ layout: page
 <img src="https://QZZ2023.github.io/Qianzhi_photo_2.jpg" class="floatpic" width="360" height="480">
 Here is **Qianzhi Zhang (章谦之)**. I am currently an Ezra Systems postdoctoral associate with Cornell University. I will be joining The University of Alabama’s Department Electrical and Computer Engineering as a tenure-track assistant professor in the upcoming Fall semester of 2023. I received my Ph.D. in electrical and computer engineering from Iowa State University in 2022. 
 
-# CV
+# Curriculum Vitae
 Lastest Update: 14th June 2023
 
 Here is [my CV](https://QZZ2023.github.io/file/CV_Qianzhi_Zhang_academic.pdf).
