@@ -6,34 +6,32 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [Muti-Agent Safe Reinforcement Learning for Energy Management of Networked Microgrids](https://QZZ2023.github.io/mypaper/TSG_RL_2.pdf)
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/MASRL_MGs.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [Distributed Volt/Var Control in Power Distribution Systems with High Penetration of PVs](https://QZZ2023.github.io/mypaper/CVR_2.pdf)
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/Dis_VVO.png">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [Resilience Enhancement of Power Distribution Systems](https://QZZ2023.github.io/mypaper/RSER_RES_1.pdf)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/Res_pre.png">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [Frequency-Constrained Load Restoration in Inverter-Dominated MGs](https://QZZ2023.github.io/mypaper/TSG_RES_2.pdf )
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/Res_post.png">
 </center>
 <br>
 
