@@ -48,11 +48,11 @@ Lastest Update: 14th June 2023
 
 - [Software Development of Optimal Substation Ground Grid Design Based on Genetic Algorithm and Pattern Search](https://QZZ2023.github.io/mypaper/NAPS_QZ_1.pdf)<br>**Qianzhi Zhang**, Xuan Wu, 2014 North American Power Symposium (NAPS), Pullman, WA, 2014.
 
-- [High-Rise Building Mini-Hydro Pumped-Storage Scheme with Shanghai Jinmao Tower as A Case Study](https://QZZ2023.github.io/mypaper/PESGM_3.pdf)<br>Jianmin Zhang, **Qianzhi Zhang**, 2014 IEEE PES General Meeting (PESGM), Vancouver, BC, 2014.
+- [High-Rise Building Mini-Hydro Pumped-Storage Scheme with Shanghai Jinmao Tower as A Case Study](https://QZZ2023.github.io/mypaper/PESGM_3.pdf)<br>Jianmin Zhang, **Qianzhi Zhang**, 2014 IEEE PES General Meeting (PESGM), National Harbor, MD, 2014.
 
-- [Feasibility and Simulation Study of High-Rise Building Microgrid With PV and Mini-Hydro Pumping](https://QZZ2023.github.io/mypaper/PESGM_2.pdf)<br>>Jianmin Zhang, **Qianzhi Zhang**, Chuangxin Guo, 2013 IEEE PES General Meeting (PESGM), San Diego, CA, 2013.
+- [Feasibility and Simulation Study of High-Rise Building Microgrid With PV and Mini-Hydro Pumping](https://QZZ2023.github.io/mypaper/PESGM_2.pdf)<br>>Jianmin Zhang, **Qianzhi Zhang**, 2013 IEEE PES General Meeting (PESGM), Vancouver, BC, 2013.
 
-- [Photovoltaic Plant Metering Monitoring Model and Its Calibration and Parameter Assessment](https://QZZ2023.github.io/mypaper/PESGM_1.pdf)<br>**Qianzhi Zhang**, Jianmin Zhang, Chuangxin Guo, 2014 IEEE PES General Meeting (PESGM), Vancouver, BC, 2014.
+- [Photovoltaic Plant Metering Monitoring Model and Its Calibration and Parameter Assessment](https://QZZ2023.github.io/mypaper/PESGM_1.pdf)<br>**Qianzhi Zhang**, Jianmin Zhang, Chuangxin Guo, 2012 IEEE PES General Meeting (PESGM), San Diego, CA, 2012.
 
 ## Working Paper
 
