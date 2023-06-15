@@ -15,6 +15,13 @@ Lastest Update: 14th June 2023
 </center>
 <br>
 
+#### [Bi-Level Reinforcement Learning for Energy Management of Networked Microgrids](https://QZZ2023.github.io/mypaper/TSG_RL_1.pdf)
+
+<center>
+<img src="/images/RL_MGs.png">
+</center>
+<br>
+
 #### [Robust Volt/Var Control in Power Distribution Systems with Advanced Metering Infrastructure](https://QZZ2023.github.io/mypaper/TPWRS_CVR_3.pdf)
 
 <center>
