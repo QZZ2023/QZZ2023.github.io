@@ -8,6 +8,10 @@ title: Publications
 
 Lastest Update: 14th June 2023
 
+## Working Paper
+
+- [It Takes More Than Electric Vehicles – Bottlenecks in Power Transmission Grids for Achieving New York State’s Transportation Electrification Ambition]<br>**Qianzhi Zhang**, Yuechen Liu, Fengqi You, H.Olver.Gao, **Applied Energy**, under review.
+
 ## Journal Paper
 - [A Systematic Review on Power Systems Planning and Operations Management with Grid Integration of Transportation Electrification at Scale](https://QZZ2023.github.io/mypaper/ADAPEN_EV_1.pdf)<br>**Qianzhi Zhang**, Jinyue Yan, H.Oliver Gao, Fengqi You, **Advances in Applied Energy**, accepted, 2023.
 
@@ -54,6 +58,4 @@ Lastest Update: 14th June 2023
 
 - [Photovoltaic Plant Metering Monitoring Model and Its Calibration and Parameter Assessment](https://QZZ2023.github.io/mypaper/PESGM_1.pdf)<br>**Qianzhi Zhang**, Jianmin Zhang, Chuangxin Guo, 2012 IEEE PES General Meeting (PESGM), San Diego, CA, 2012.
 
-## Working Paper
 
-- [It Takes More Than Electric Vehicles – Bottlenecks in Power Transmission Grids for Achieving New York State’s Transportation Electrification Ambition]<br>**Qianzhi Zhang**, Yuechen Liu, Fengqi You, H.Olver.Gao, **Applied Energy**, under review.
